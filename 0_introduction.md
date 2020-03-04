@@ -22,9 +22,13 @@ Deborah's later research looks at team structure & rewards to make teams more in
 
 - [A Year for Leadership in America.](https://thehill.com/opinion/civil-rights/368329-a-year-for-leadership-in-america)
 
+---
+
 ### The online campus
 
 Sections of interest include Profile | Calendar | My Results | Completion requirements (per module) | Classmates | Announcements & resources | Help.
+
+---
 
 ### Orientation handbook - notes
 
@@ -80,7 +84,7 @@ There are 2 categories of course content:
 
 #### Extensions
 
-Requests for extensions must be submitted <= 48 h after the assignment deadline. You can request 1 extension per submission. Stndard extension durations are 24-48 h.
+Requests for extensions must be submitted <= 48 h after the assignment deadline. You can request 1 extension per submission. Standard extension durations are 24-48 h.
 
 ##### Reasons for extensions
 
