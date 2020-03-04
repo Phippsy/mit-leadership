@@ -59,3 +59,65 @@ An emerging style of leadership which MIT had observed. Such leaders have no exp
 Such leaders pursue a depth of expertise but rely on familiarity with other knowledge realms to make connections (i.e. T-shaped people).
 These people have no expectation of permanance for teams they operate in / assemble, rather expecting resources and people to converge and disassemble based on problems to be solved. (This sounds similar to "Adaptive Landscapes" from '[The Soul at Work](https://www.dropbox.com/s/fbho37migerhynj/The%20Soul%20at%20Work.pdf?dl=0').
 
+---
+# [How to Cultivate Leadership That is Honed to Solve Problems](https://www.strategy-business.com/article/How-to-Cultivate-Leadership-That-Is-Honed-to-Solve-Problems?gko=6eab0)
+
+## Challenge-driven leadership.
+
+Leaders who are proposeed to solve problems / meet challenges creatively. Not motivated by authority, status or showmanship. Excel at choreographing / directing others' work. Contrast directly with those who may be perceived as "...jockeying for leadership roles [...] ambitious, self-promoting, political and power-hungry."
+
+## Conditions for success
+
+### A problem-solving ethos
+
+Prestige and satisfaction derive from solving problems.
+A clear appetite for challenge, unawed by low likelihood of success.
+A willingness to 'dive in.
+
+"The real opponent is the previous level of capability someone brought to bear on a similar problem."
+
+### Challenge-Driven Talent Strategies
+
+Keep an inventory of the best people you / your teams have ever worked with. Then, entice these people with the problems you face.
+
+Value resourcefulness, appetite for problem-solving.
+
+Invite people to put themselves forward for the challenges that inspire them most.
+
+### Teaming on the fly
+
+Assemble teams of contributors.
+
+Abilities of appropriate team members / leaders:
+
+- Recognise when a previously intractable problem can be tackled.
+
+- Communicate that vision.
+ 
+- Size up and convene the right people to solve the problem. ("Self-organising collaboration")
+
+Re: self-organising teams, the famous [Valve Employee Handbook](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf) seems relevant.
+
+---
+
+# [What Kind of Leadership Works Best at Your Company?](https://hbr.org/2018/03/what-kind-of-leadership-works-best-at-your-company)
+
+Step 1: self-assess (as a company) and understand what kind of leader typically emerges from your ranks. Pay attention to who gets hired / fired, as this is a strong signal of which skills matter most.
+
+"The most important work, then, of what we would call the 'leader' in a situation is to seize on some intriguing, inspiring, barely-solvable problem, and frame it in a way that draws other smart and skilled people toward it."
+
+The rest of the article seems to overlap with concepts already covered in these notes.
+
+---
+
+# [A year for leadership in America](https://thehill.com/opinion/civil-rights/368329-a-year-for-leadership-in-america)
+
+Psychologists and political scientits have shown that in uncertain times, we often gravitate towards demagogues.
+
+Faced with a demand for innovation, stress and threat can make us rigid and fearful of stepping up to the challenge.
+
+The antidote is "distributed leadership".
+
+- Free-flowing information
+- Entrepreneurial spirit
+- Resist the desire for certainty 

@@ -10,6 +10,8 @@ Deborah's later research looks at team structure & rewards to make teams more in
 
 #### Further reading
 
+[My notes on further reading.](9_further_reading.md)
+
 - [MIT profile - Deborah L. Ancona.](https://mitsloan.mit.edu/faculty/directory/deborah-l-ancona)
 
 - [Nimble Leadership.](https://hbr.org/2019/07/nimble-leadership)
