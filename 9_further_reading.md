@@ -121,3 +121,6 @@ The antidote is "distributed leadership".
 - Free-flowing information
 - Entrepreneurial spirit
 - Resist the desire for certainty 
+
+# [In praise of the incomplete leader](https://services.hbsp.harvard.edu/api/courses/705471/items/R0702E-PDF-ENG/sclinks/980cb5b4d13708aa8934b5e97f54ceb0)
+

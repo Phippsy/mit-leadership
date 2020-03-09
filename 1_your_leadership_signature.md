@@ -130,3 +130,71 @@ Know who you are, and own it.
 
 ## 1.2 Clarify your leadership signature
 
+### Reflect on your signature - cards
+
+Choose 3-5 cards which you feel best represent your leadership signature (then write 3-5 sentences to explain the cards you chose and how you exemplify your chosen adjective)
+
+The cards I chose are shown above, and listed below, with accompanying explanations.
+
+4. Leaning in to chaos, seeking (temporary) order and wrangling
+
+I am energised by the challenge of chaos - complex problems in environments of changed. I believe that such challenges can be solved thanks to the almost magical power of technology and our collective and individual creative brilliance.
+
+8. Pathfinding / learning, finding a way (adjective: **Orientating**)
+
+Plotting and planning are like a drug to me - I enjoy creating plans and roadmaps, and try to "step forward" and chart new territory as often as possible. I believe that people are often waiting for someone to take the initiative, and try to prompt action by stepping up. I need to be careful, however, that others' views are heard and that I do not deprive other people of an opportunity to grow.
+
+14. Being different, exuberant (adjective: **Energetic**)
+
+I believe that all human beings can be wonderful, and we should identify and express our colourful selves. This can encourage those around us to do the same and to be proud of who they are.
+
+16. Connecting, collaborating, embracing diversity of opinion (adjective: **Connecting**)
+
+The energy of other people, especially cross-functional people, connecting and working together is compelling to me. I am fascinated by other people and love to see [emergence](https://en.wikipedia.org/wiki/Emergence) of teams in action.
+
+20. Loving the arcane, being curious about different things (adjective: **Inquisitive**)
+
+Although we live in challenging times, we also live in incredible times. We are surrounded by so much variety, capability and possibility. I love to experience diversity, new thinking and new ideas. I try to learn and be inspired by thinking from many different areas.
+
+# The 4-CAPS+ Framework
+
+The framework will introduce 4 key leadership capabilities, plus building credibility, which underpin successful leadership.
+
+## Origins of the framework
+
+The research team set out to answer the question "What is leadership?". It's no coincidence that it is a simple framework - this is intended to make it practical.
+
+## Assumptions of the framework
+
+1. Leadership is personal
+
+You do you. Figure out which capabilities fit you the best.
+
+2. Focus on the challenge
+
+When motivating others, appeal to others' desire to solve an important challenge, rather than suggesting you are amazing and they'll be lucky to keep your company.
+
+3. Leadership is distributed
+
+## The capabilities
+
+1. Sensemaking (in a changing landscape)
+
+2. Relating (to others, building trusting relationships)
+
+This begins with simply being visible. Make yourself available to those in your team, so that a relationship can form.
+
+3. Visioning
+
+Identifying and articulating what is possible and painting a picture of the future.
+
+4. Inventing
+
+Figuring out new solutions as new situations emerge.
+
+**(+) Building credibility**
+
+(exercises)
+
+We should note that no-one should expect to excel in all capabilities. Aim to self-assess and practice distributed leadership to complement your strenghts & weaknesses.
+

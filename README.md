@@ -13,7 +13,7 @@ This repo contains my notes from the MIT Sloan Leadership course.
 ## Course notes
 
 - [Introduction](0_introduction.md)
-- Module 1
+- [Module 1](1_your_leadership_signature.md)
 - Module 2
 - Module 3
 - Module 4
