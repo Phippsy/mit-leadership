@@ -14,7 +14,7 @@ This repo contains my notes from the MIT Sloan Leadership course.
 
 - [Introduction](0_introduction.md)
 - [Module 1](1_your_leadership_signature.md)
-- Module 2
+- [Module 2](2_understanding_your_organisational_context.md)
 - Module 3
 - Module 4
 - Module 5
