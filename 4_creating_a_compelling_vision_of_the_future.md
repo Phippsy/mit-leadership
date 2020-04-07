@@ -12,7 +12,15 @@ This is a way to provide meaning to the work which everyone is doing, which is c
 
 Dr. Ancona recounts the story of the 3 masons - the third of whom sees that they are "building a cathedral" and therefore working the hardest of the three.
 
-"[I'm not mopping the floors, I'm putting a man on the moon](https://knowledge.wharton.upenn.edu/article/what-leaders-can-learn-from-nasa/)"
+#### "[I'm not mopping the floors, I'm putting a man on the moon](https://knowledge.wharton.upenn.edu/article/what-leaders-can-learn-from-nasa/)"
+	
+The hard part is forming connections between the 'lofty vision' and what employees are doing at ground level.
+Have a single overarching goal which everyone can roll up to.
+Have sub-goals (a la Kennedy) - use these to let people focus more attention / effort on ultimate goal. Use these to keep people focused on ultimate achievement. Sub-goals should pave the path to the vision, rather than breaking it into components.
+
+Transform the abstract sub-goal into a concrete, tangible thing. Kennedy would mix abstract concepts with the physical world, e.g. "We want to go to the moon because knowledge and peace are there.". This creates a vivid image which people can mentally anchor to.
+
+---
 
 Steve Jobs framed that "we are working to change the world", rather than just building a computer.
 
@@ -65,7 +73,7 @@ Good general practice can include:
 
 - Create a vision in all areas of your life
 
-- Focuson what excites you
+- Focus on what excites you
 
 - Do not assume everyone else will immediately share your vision
 
@@ -75,3 +83,41 @@ Good general practice can include:
 
 - Use images, metaphors and stories.
 
+# Casebook: How leaders approach visioning
+
+## Dr. Andy Plump
+
+The most important thing which Andy Plump identified was **focus**. There was a proliferation of ideas in the organisation, but a core strategic framework was lacking. Dr. Plump also felt that there was a disconnect to what was happening in the outside world.
+
+Takeda were also very technology-focused.
+
+Dr. Plump realised that the company had stopped challenging themselves in terms of what they were doing - how far they were reaching. Innovation had dried up, and they were falling back on tried & tested formulas.
+
+The case for change was objectively absolute: company performance (very poor) made it clear. The company "wasn't going anywhere". Dr. Plump was able to articulate the nightmare scenario as a means of motivating others, although he suggests that the company were previously unaware of this.
+
+Different operating modes were tested out (similar to 'integrated learning loops.')
+
+## Dr. Kristina Allikmets
+
+The team united around a theme of challenging convention, doing things differently and finding a new way. They "aspire to inspire bold drug developments, because patients are waiting.".
+
+Putting the patient front and centre in the development process became a key. Having the patient as a **partner** in developing the drug.
+
+## Maeve Coburn
+
+What Maeve Coburn observed was that when she began communicating this new approach, her colleagues realised that they couldn't cascade this information to their teams (i.e. 'push/brodcast') - rather, they had to campaign and incite the organisation to participate and get involved and create space for them to have a voice and co-create the future.
+
+They used partners to create strategic framing - aligning people across the business on the key strategic priorities of the company.
+
+Having and demonstrating confidence in others that they could own and influence the change was one way in which Maeve Coburn was able to bring people together behind a shared vision.
+
+# Peer review activity
+
+- Think about an outcome that you would like to achieve and how you could communicate the vision for that outcome. 
+- Use the built-in webcam software on your PC, laptop, tablet, or mobile phone to record a video in which you inspire your peers to share in your vision. 
+- Your vision can be related to any domain you are passionate about. Keep in mind that you need to motivate your peers with your vision for the future.
+- Use the knowledge you have acquired in this module about effectively communicating a vision.
+- Employ the sub-dimensions of visioning in your approach.
+- Your video should be no longer than 3 minutes.
+- Your video should not exceed 5GB.
+- Your submission should consist only of a video. There is no need for a written response.
