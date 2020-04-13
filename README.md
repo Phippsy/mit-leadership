@@ -12,6 +12,7 @@ TODO
 - Reflect on the comments from Maeve Coburn about the Gestalt theory of change, the power of being fully present. Consider other behaviours (e.g. yoga, mindfulness practice) which complement this, and other practice I might consider.
 - Consider inquiry/advocacy (sub-dimensions of relating). What about settling debates?
 - Find more ways to pay attention before advocating for your point of view.
+- Counter to getting stuck in search mode: clearly state the question to which we require an answer, and "we'll know we have enough information when....", to avoid recursive madness.
 
 DONE
 - [Build self-assessment tool](projects/self-assessment.xlsx).
